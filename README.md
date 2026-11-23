@@ -58,25 +58,6 @@ No Avya, construí uma interface para descobrir e acessar os grupos de ofertas p
 - **Dados e lógica:** configuração tipada dos grupos em TypeScript; categorias derivadas dos próprios dados e filtros organizados em hooks com `useMemo`.
 - **Experiência de uso:** React, Tailwind CSS e Framer Motion para uma interface pensada para o celular, com adaptação à preferência de reduzir movimento.
 
-### 05 · CapLab
-
-<img src="./assets/project-caplab.svg" width="100%" alt="CapLab — Autenticação, persistência de dados e integração com IA" />
-
-Criei o CapLab para a Ana acompanhar os cuidados com o cabelo. O projeto reúne interface, dados e IA em uma aplicação com histórico pessoal.
-
-- **Conta e persistência:** Next.js e Firebase para autenticação e armazenamento do diário, questionários, fotos e registros de cortes, com acesso vinculado à usuária.
-- **IA integrada ao produto:** chamadas à OpenAI pelo servidor para descrever características visíveis das fotos e organizar sugestões de cuidados a partir das informações fornecidas.
-- **Validação e controle de uso:** respostas estruturadas verificadas com Zod, credenciais mantidas no servidor e transações no Firestore para limitar chamadas e evitar pedidos duplicados.
-
-## Tecnologias
-
-**Interfaces** &nbsp; `TypeScript` `JavaScript` `React` `Next.js` `Tailwind CSS`
-
-**3D e movimento** &nbsp; `Three.js` `React Three Fiber` `GSAP` `Framer Motion`
-
-**Backend e dados** &nbsp; `Node.js` `Python` `Java` `SQL` `PostgreSQL` `Firebase`
-
-**IA e ferramentas** &nbsp; `OpenAI API` `Zod` `Git` `GitHub` `Vercel`
 
 ## Inteligência artificial
 
